@@ -89,7 +89,9 @@ A living showcase of intent-centric design.
 
 A new way to imagine coordination: not through lists and clicks, but through wishes spoken into being.
 
-
+✦ 𝐄𝐱𝐩𝐥𝐨𝐫𝐞 𝐖𝐚𝐲𝐅𝐢𝐧𝐝𝐫 ⇩⁣
+⁣⁣
+↗https://suad-ux.github.io/wayfindr-anoma/
 
 ---
 
